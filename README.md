@@ -1,4 +1,4 @@
-## 基于Springboot的网上蛋糕售卖店管理系统(源代码+LW+PPT+数据库)
+## 基于Springboot的个人驾校预约管理系统(源代码+LW+PPT+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
@@ -51,12 +51,11 @@
 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
 ## 四、页面截图
-![图片](https://github.com/user-attachments/assets/ec3eca7c-f219-435f-b5ec-afdf0156a27e)
-![图片](https://github.com/user-attachments/assets/fdfadfa7-1ccf-441a-9d65-7908397add90)
-![图片](https://github.com/user-attachments/assets/f3112999-497e-4a59-8ba5-90629ad42661)
-![图片](https://github.com/user-attachments/assets/50ff6e0c-767d-4e2d-b20c-1975d20808a8)
-![图片](https://github.com/user-attachments/assets/352df9f1-6752-4636-ab51-092d6296a755)
-
+![图片](https://github.com/user-attachments/assets/1279a1f8-fa6f-4748-abd8-7da88cb01cd4)
+![图片](https://github.com/user-attachments/assets/ff8228be-e6d2-4844-afbb-81eb0ca0f34c)
+![图片](https://github.com/user-attachments/assets/da5b9a35-dc78-4b47-b5a1-3852e4901fd1)
+![图片](https://github.com/user-attachments/assets/dfd2dba4-9356-4936-bcf8-3fe6ec25afc0)
+![图片](https://github.com/user-attachments/assets/65a5da9e-91c3-4f5d-b314-a5dd474dacb6)
 
 ## 五、浏览地址
 
